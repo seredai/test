@@ -12,5 +12,10 @@ docker-compose up --build
 ```
 nohup sh inotifywait.sh > /dev/null 2>&1 &
 ```
+# Проверить работу сайта можно по адресу 
+```
+ http://localhost:3000/
+```
+
 
 
