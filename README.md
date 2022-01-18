@@ -6,7 +6,7 @@ git clone git@github.com:seredai/test.git
 cd test
 ````
 ```
-docker-compose up --build
+docker-compose up -d --build
 ```
 # Настройка dev-loop. Запустить команду 
 ```
